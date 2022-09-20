@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isharafe
-- 👀 I’m interested in Java, Angular, NodeJs, NestJs, Javascript
-- 🌱 I’m currently learning NodeJs
+- 👀 I’m interested in Java, Angular, NodeJs, NestJs, Javascript, Docker, Machine Learning
+- 🌱 I’m currently learning Kubernates
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : isharafe@gmail.com
 
